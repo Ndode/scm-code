@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "this is a github script"
-NUMBER=$((NUMBER)NE + NUMBERTWO))
+NUMBER=$(($NUMBERONE +$NUMBERTWO))
 echo "NUMBER"
